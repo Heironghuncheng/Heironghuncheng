@@ -4,4 +4,4 @@
 
 [![BLESS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heironghuncheng)](https://github.com/anuraghazra/github-readme-stats)
 
-[!metrics](./github-metrics.svg)
+![metrics](./github-metrics.svg)
