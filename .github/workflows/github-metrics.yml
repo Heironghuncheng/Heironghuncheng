@@ -19,12 +19,25 @@ jobs:
           filename: github-metrics.svg
           base: ""
           base_indepth: yes
-          config_order: base.header, base.activity, languages, topics
+          config_order: base.header, base.activity, habits, languages, topics, code
           config_display: large
           config_padding: 8, 8, 8, 8
           plugin_languages: yes
           plugin_languages_ignored: html, css
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_habits_days: 30
+          plugin_habits_from: 1000
+          plugin_habits_trim: yes
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+          plugin_code: yes
+          plugin_code_languages: python, javascript, typescript, vue, yaml
+          plugin_code_load: 1000
+          plugin_code_days: 365
+          plugin_code_visibility: public
           config_timezone: Asia/Beijing
