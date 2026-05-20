@@ -3,7 +3,6 @@
 平时会把论文笔记、环境实现和工程代码放在一起整理，尽量让理论、复现和应用对得上。
 
 ![GitHub stats](./profile/stats.svg)
-![metrics](./github-metrics.svg)
 
 近期工作：
 
