@@ -11,5 +11,3 @@
 - [persona-poison](https://github.com/Heironghuncheng/persona-poison) - 画像扰动与行为噪声
 - [WHIRLWIND-JUSTICE](https://github.com/Heironghuncheng/WHIRLWIND-JUSTICE) - AI 协作平台
 - [LLM-Based-Online-Test-Answerer](https://github.com/Heironghuncheng/LLM-Based-Online-Test-Answerer) - OCR + DeepSeek
-- [blog](https://github.com/Heironghuncheng/blog) - 博客
-- [obsidian](https://github.com/Heironghuncheng/obsidian) - 笔记
