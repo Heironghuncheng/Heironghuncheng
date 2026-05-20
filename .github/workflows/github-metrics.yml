@@ -17,6 +17,11 @@ jobs:
         with:
           token: ${{ secrets.METRICS }}
           filename: github-metrics.svg
+          base: ""
+          base_indepth: yes
+          config_order: base.header, base.activity, languages, habits, topics, code
+          config_display: large
+          config_padding: 8, 8, 8, 8
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_topics: yes
